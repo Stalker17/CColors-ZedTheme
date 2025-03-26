@@ -1,7 +1,7 @@
-id = "outrun"
-name = "Outrun"
-version = "0.0.3"
+id = "CColors"
+name = "CColors"
+version = "0.0.1"
 schema_version = 1
-authors = ["Ameen Radwan <therespie@gmail.com>"]
-description = "A cute cyberpunk/retro outrun inspired theme"
-repository = "https://github.com/Acepie/OutrunZedTheme"
+authors = ["Stalker17 <roadsidepicniczkp@protonmail.com>"]
+description = "A cyberpunk theme for Zed, forked from OutrunZedTheme"
+repository = "https://github.com/Stalker17/CColors-ZedTheme"
